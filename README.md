@@ -1,3 +1,3 @@
-# Hello World
+# Sample Text
 
-sample text
+hello world
